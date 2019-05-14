@@ -1,1 +1,1 @@
-# IGW here
+# IGW here (internet_gateway)
